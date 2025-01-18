@@ -3,6 +3,7 @@
 ## Initial Tasks
 - [x] Upload all existing files from Tucker's & Kai's folders.
 - [x] Improve file organization.
+- [ ] Fix file name conventions.
 
 ## Cartography
 - [ ]
