@@ -14,7 +14,7 @@ Van Houten flourished until 1954, when the post-war decline in coal demand and t
    - Relevant ephemera from the residents of Van Houten.
 
 2. **Maps**
-   - Updated .kml digital map file of all points of interest and regions.
+   - Updated digital map file of all points of interest and regions.
    - Historical maps of the region and town.
 
 3. **Photos**
