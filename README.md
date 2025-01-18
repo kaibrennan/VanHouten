@@ -1,5 +1,5 @@
 # Van Houten
-Repository for all information and research concerning the ghost town of Van Houten, the coal mining village in Colfax, N.M.
+Repository for all information and research concerning the ghost town of Van Houten (the coal mining village in Colfax, N.M.), and its culture.
 
 ---
 
@@ -16,15 +16,12 @@ Van Houten flourished until 1954, when the post-war decline in coal demand and t
 2. **Maps**
    - Updated .kml digital map file of all points of interest and regions.
    - Historical maps of the region and town.
-   - Internal mine maps.
 
 3. **Photos**
    - All photos pertaining to Van Houten, both in mining and town life, from various sources.
 
 4. **Publications**
-   - Reports on the mining operations and coal geography.
-   - Reports on mining closures and shaft systems.
-   - Cultural publications.
+   - Cultural publications regarding Van Houten.
 
 5. **Tours**
    - Speaking notes from all known tour programs of Van Houten.
@@ -55,14 +52,12 @@ Contributions are welcome! To contribute:
 ---
 
 ## Future Work
-- Complete the deployment on edge devices (KRIA KV-260).
-- Expand datasets to include other regions and languages.
-- Improve segmentation algorithms for higher accuracy.
+- See TODO.md.
 
 ---
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+- For licensing information, see LICENSE.
 
 ---
 
