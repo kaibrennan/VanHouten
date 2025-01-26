@@ -10,7 +10,7 @@
 
 ## Culture
 - [ ] Collect Markus Hecker's tour materials.
-- [ ] Rename all photos to descriptive things.
+- [x] Rename all photos to descriptive things.
 
 ## Memoranda
 - [ ] Create more charter memoranda to explore the unexplored points in the map.
