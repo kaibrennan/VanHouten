@@ -8,6 +8,7 @@
 ## Cartography
 - [ ] Make a printable set of maps with regions and points, similar to the cadastre napoleon.
 - [x] Add hand drawn maps & publication maps to folder.
+- [x] Map every existing foundation
 
 ## Culture
 - [ ] Collect Markus Hecker's tour materials.
