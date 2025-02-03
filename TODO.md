@@ -9,8 +9,8 @@
 - [ ] Make a printable set of maps with regions and points, similar to the Cadastre Napoléonien.
     - [x] Map every existing foundation.
     - [ ] Map every completely demolished foundation known.
-    - [ ] Fix & verify all rail lines, including tramways for coal.
-    - [ ] Label all known structures & tramways.
+    - [x] Fix & verify all rail lines, including tramways for coal.
+    - [x] Label all known structures & tramways.
     - [ ] Verify everything with all photographs.
     - [ ] Make 5 folio printable at 1:2500 Scale.
 - [x] Add hand drawn maps & publication maps to folder.
