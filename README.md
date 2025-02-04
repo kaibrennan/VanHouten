@@ -62,7 +62,7 @@ Contributions are welcome! To contribute:
 ---
 
 ## Acknowledgments
-Special thanks to historians, explorers, researchers, and community members who have contributed to preserving Van Houten’s history, including Tucker Barraclough, George 'Judo' Yaksich, Markus Aurelius Hecker, H. B. Nickelson, the employees of the NRA Whittington Center, and Kai Brennan.
+Special thanks to historians, explorers, researchers, and community members who have contributed to preserving Van Houten’s history, including Tucker Barraclough, George 'Judo' Yaksich, Markus Aurelius Hecker, H. B. Nickelson, the employees of the NRA Whittington Center, many others from the past, and those yet to come.
 
 ---
 

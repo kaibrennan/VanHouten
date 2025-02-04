@@ -13,12 +13,15 @@
     - [x] Label all known structures & tramways.
     - [ ] Verify everything with all photographs.
     - [ ] Make 5 folio printable at 1:2500 Scale.
+    - [ ] Create a large printable in the style of old maps.
 - [x] Add hand drawn maps & publication maps to folder.
 
 ## Culture
 - [ ] Collect Markus Hecker's tour materials.
 - [x] Rename all photos to descriptive things.
 - [x] Extract all photos from publications.
+- [x] Acquire Ken Fordyce's other publications.
+- [ ] Seek out as many scans as possible from the New Mexico Archives (in the wishlist).
 
 ## Memoranda
 - [ ] Create more charter memoranda to explore the unexplored points in the map.
