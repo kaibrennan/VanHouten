@@ -17,12 +17,12 @@
 - [x] Add hand drawn maps & publication maps to folder.
 
 ## Culture
-- [ ] Collect Markus Hecker's tour materials.
+- [x] Collect Markus Hecker's tour materials.
 - [x] Rename all photos to descriptive things.
 - [x] Extract all photos from publications.
 - [x] Acquire Ken Fordyce's other publications.
 - [ ] Seek out as many scans as possible from the New Mexico Archives (in the wishlist).
-- [ ] Find information on mining/work songs (VanHouten specific if possible) 
+- [ ] Find information on mining/work songs (VanHouten specific if possible)
 
 ## Memoranda
 - [ ] Create more charter memoranda to explore the unexplored points in the map.
