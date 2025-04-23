@@ -8,10 +8,17 @@
 ## Cartography
 - [ ] Make a printable set of maps with regions and points, similar to the Cadastre Napoléonien.
     - [x] Map every existing foundation.
-    - [ ] Map every completely demolished foundation known.
+    - [x] Map every partially demolished foundation known.
     - [x] Fix & verify all rail lines, including tramways for coal.
     - [x] Label all known structures & tramways.
-    - [ ] Verify everything with all photographs.
+    - [x] Verify everything with all photographs, and every fully demolished/lost building.
+        - [x] Other
+        - [x] Photos from Publications
+        - [x] Raton Museum Photos
+        - [x] USGS Fresh Pics
+        - [x] VH Specific Photos from OFR-572
+    - [x] Verify and add foundations from company maps (monte hill is a nightmare)
+    - [x] Verify and add foundations from archaeological survey
     - [ ] Make 5 folio printable at 1:2500 Scale.
     - [ ] Create a large printable in the style of old maps.
 - [x] Add hand drawn maps & publication maps to folder.
