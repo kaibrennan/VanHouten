@@ -24,7 +24,7 @@
 - [x] Add hand drawn maps & publication maps to folder.
 
 ## Culture
-- [x] Collect Markus Hecker's tour materials.
+- [x] Collect Mark David's tour materials. 
 - [x] Rename all photos to descriptive things.
 - [x] Extract all photos from publications.
 - [x] Acquire Ken Fordyce's other publications.
