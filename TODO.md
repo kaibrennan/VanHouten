@@ -3,7 +3,7 @@
 ## Initial Tasks
 - [x] Upload all existing files from Tucker's & Kai's folders.
 - [x] Improve file organization.
-- [ ] Fix file name conventions.
+- [x] Fix file name conventions.
 
 ## Cartography
 - [ ] Make a printable set of maps with regions and points, similar to the Cadastre Napoléonien.
@@ -24,7 +24,7 @@
 - [x] Add hand drawn maps & publication maps to folder.
 
 ## Culture
-- [x] Collect Mark David's tour materials. 
+- [x] Collect Mark David's tour materials.
 - [x] Rename all photos to descriptive things.
 - [x] Extract all photos from publications.
 - [x] Acquire Ken Fordyce's other publications.
