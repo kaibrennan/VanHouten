@@ -1,6 +1,6 @@
-APA Reference List (For All Publications)
+### APA Reference List: ###
 
-signs uncited
+--- Publications from Main Folder: ---
 
 Casa de Gavilan Historic Inn. (n.d.). Van Houten Coal Town Ruins. Casa de Gavilan Historic Inn. https://img1.wsimg.com/blobby/go/24e420c7-95f8-49f3-9b9e-da9bc222c835/downloads/Van%20Houten-02.pdf?ver=1747582304069
 
@@ -39,9 +39,15 @@ Fordyce, K. (Collector). (1936–1940). Greek and Montenegrin celebrations (5-4-
 
 Fordyce, K. (Collector). (1936–1940). The Magician (5-5-60 29). WPA New Mexico Collection, AC-228. Fray Angélico Chávez History Library.
 
+--- Tours: ---
 
+Barraclough, T. (n.d.). Van Houten Tour [Unpublished manuscript].
 
---- Not Included on the Github, but still Useful: ---
+Hecker, M. (2024). Van Houten Notes [Unpublished manuscript].
+
+Yaksich, G. ("Judo"). (2022, August 4). Interview by T. Barraclough [Transcript]. Unpublished manuscript.
+
+--- Not Included on Github, but still Useful: ---
 
 Lee, W. T., & Knowlton, F. H. (1917). Geology and paleontology of the Raton Mesa and other regions in Colorado and New Mexico (Professional Paper 101). United States Geological Survey. https://doi.org/10.3133/pp101
 
@@ -50,3 +56,15 @@ Lee, W. T. (1924). Coal resources of the Raton coal field, Colfax County, New Me
 Lee, W. T. (1922). Raton-Brilliant-Koehler folio, New Mexico-Colorado (Folios of the Geologic Atlas 214). U.S. Geological Survey. https://doi.org/10.3133/gf214
 
 United States Department of the Interior. (1909). Reports of the Department of the Interior for the fiscal year ended June 30, 1909: Administrative reports, Volume II: Indian Affairs, Territories. Government Printing Office. https://archive.org/details/reportsofdepartm19092unit
+
+--- Mine Publications: ---
+
+Annual Report of the Mine Inspector for the Territory of New Mexico to the Secretary of the Interior for the Fiscal Year Ended .... (1907). United States: U.S. Government Printing Office.
+
+Nickelson, H. B. (1979). Reclamation evaluation for OSM, Raton Field, Willow-Van Houten Mines Nos. 1 through 6 [Memorandum]. NMBMMR. Unpublished manuscript.
+
+Oakes, Y. R. (1987). Archaeological Survey of Mine Lands in the Raton Coal Field for the Abandoned Mine Land Bureau. Laboratory of Anthropology, Abandoned Mine Land Bureau. https://www.academia.edu/116997177/
+
+Lohmann, P. (2024, October 22). State extinguishes Gallup-area mine fires burning since at least 2011. Source NM. https://sourcenm.com/briefs/state-extinguishes-gallup-area-mine-fires-burning-since-at-least-2011/
+
+New Mexico Energy, Minerals, and Natural Resources Department. (n.d.). Abandoned Mine Land Program Projects. New Mexico Energy, Minerals, and Natural Resources Department. https://www.emnrd.nm.gov/mmd/abandoned-mine-land-program/projects/
