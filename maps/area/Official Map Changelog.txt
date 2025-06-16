@@ -1,0 +1,4 @@
+Official Map Changelog
+
+V1.0 - Initial Map
+V1.1 - Added Contour Lines, Added Cultural Landmarks, Removed Portal Locations
