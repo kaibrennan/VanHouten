@@ -1,4 +1,6 @@
-Official Map Changelog
+Official Map Revision History
 
-V1.0 - Initial Map
-V1.1 - Added Contour Lines, Added Cultural Landmarks, Removed Portal Locations
+Version | Date       | Author     | Description
+--------|------------|------------|------------
+1.0     | 06-06-2025 | J. Brennan | Initial release
+1.1     | 06-15-2025 | J. Brennan | Added Contour Lines, Added Cultural Landmarks, Removed Portal Locations
