@@ -4,3 +4,4 @@ Version | Date       | Author     | Description
 --------|------------|------------|------------
 1.0     | 06-06-2025 | J. Brennan | Initial release
 1.1     | 06-15-2025 | J. Brennan | Added Contour Lines, Added Cultural Landmarks, Removed Portal Locations
+1.2     | 07-23-2025 | J. Brennan | Modified Regional Borders, Added Cultural Landmarks (w/ respect to new discoveries)
